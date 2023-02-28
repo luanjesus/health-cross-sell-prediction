@@ -1,6 +1,6 @@
 For a more comprehensive and detailed view of the exploratory data analysis, please refer to the following Jupyter notebook.
 
-[![EDA - Jupyter](https://img.shields.io/badge/?style=for-the-badge&logo=Jupyter)](https://github.com/luanjesus/health-cross-sell-prediction/blob/main/eda.ipynb)
+[![EDA - Jupyter](https://img.shields.io/badge/Exploratory%20Data%20Analysis-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://github.com/luanjesus/health-cross-sell-prediction/blob/main/eda.ipynb)
 
 # Health Insurance Cross-Sell Prediction: Building a Model to Predict Customer Interest in Vehicle Insurance
 
