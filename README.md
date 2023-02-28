@@ -2,13 +2,15 @@
 	🚧  Em construção...  🚧
 </h2>
 
+<span style="color:yellow"><strong>Disclaimer:</strong> The following context is completely fictitious. The company, context and business issues were created exclusively for the development of the project and are based on a proposal from <a href="https://comunidadeds.com/formacao?utm_source=linkedin&utm_medium=company-page">Comunidade DS</a> and inspired by a <a href="https://www.kaggle.com/datasets/anmolkumar/health-insurance-cross-sell-prediction">Kaggle challenge</a>.<span> 
+
 For a more comprehensive and detailed view of the exploratory data analysis, please refer to the following Jupyter notebook.
 
 [![EDA - Jupyter](https://img.shields.io/badge/Exploratory%20Data%20Analysis-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://github.com/luanjesus/health-cross-sell-prediction/blob/main/eda.ipynb)
 
 # Health Insurance Cross-Sell Prediction: Building a Model to Predict Customer Interest in Vehicle Insurance
 
-    Disclaimer: The following context is completely fictitious. The company, context and business issues were created exclusively for the development of the project and are based on a website project.
+<img src="https://github.com/luanjesus/health-cross-sell-prediction/blob/main/repos/img/logo.PNG" alt="" style="max-width: 100%;">
 
 Our client, an insurance company, is seeking our assistance in creating a predictive model to determine the likelihood of policyholders from the previous year being interested in the company's vehicle insurance. 
 
