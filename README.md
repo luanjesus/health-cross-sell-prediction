@@ -10,7 +10,7 @@ For a more comprehensive and detailed view of the exploratory data analysis, ple
 
 # Health Insurance Cross-Sell Prediction: Building a Model to Predict Customer Interest in Vehicle Insurance
 
-<img src="https://github.com/luanjesus/health-cross-sell-prediction/blob/main/repos/img/logo.PNG" alt="" style="max-width: 100%;">
+<img src="https://github.com/luanjesus/health-cross-sell-prediction/blob/main/repos/img/logo.png" alt="" style="max-width: 100%;">
 
 Our client, an insurance company, is seeking our assistance in creating a predictive model to determine the likelihood of policyholders from the previous year being interested in the company's vehicle insurance. 
 
