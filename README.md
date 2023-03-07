@@ -22,9 +22,12 @@ Predicting a customer's interest in vehicle insurance is crucial for the company
 
 # 1. Business Problem
 
-1. The product team is seeking to create a predictive tool capable of identifying, in a database of 127,000 customers, those with the highest likelihood of joining the new premium health/automobile insurance plan. This is because the plan enrollment will be done through direct contact by the sales team, via phone calls, with only 2000 calls available to contact customers.
+The product team is seeking to create a predictive tool capable of identifying, in a database of 127,000 customers, those with the highest likelihood of joining the new premium health/automobile insurance plan. This is because the plan enrollment will be done through direct contact by the sales team, via phone calls, with only 20000 calls available to contact customers.
 
-2. It is important to note that the tool needs to have a minimum accuracy of 80% to ensure profitability for the company in the creation of the new plan.
+1. Main insights about the most relevant attributes of customers interested in acquiring car insurance.
+2. What percentage of customers interested in acquiring car insurance will the sales team be able to contact by making 20,000 calls?
+3. If the sales team's capacity increases to 40,000 calls, what percentage of customers interested in acquiring car insurance will the sales team be able to contact?
+4. How many calls does the sales team need to make to contact 80% of customers interested in acquiring car insurance?
 
 # 2. Data
 
